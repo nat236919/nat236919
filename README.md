@@ -1,9 +1,10 @@
 ### Hello There 👋
 
-I am a software engineer and a data analyst who actively participate in open-source development.
+I am a software engineer and a data analyst who is gliding around open-source development.
 
 - 🔭 I’m currently working on various web-application projects
 - 🌱 I’m currently learning Python and Go
+- 👯 I’m looking to collaborate on the projects whose ideas dazzle me
 
 <!--
 **nat236919/nat236919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
