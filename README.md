@@ -4,7 +4,7 @@ I am a software engineer and a data analyst who is gliding around open-source de
 
 I am also a creator and a maintainer of [covid19-api](https://nat236919.github.io/covid19-api/).
 
-### Stats
+### Stats 🔢
 
 [![Nuttaphat's github stats](https://github-readme-stats.vercel.app/api?username=nat236919)](https://github.com/nat236919/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat236919&layout=compact)](https://github.com/nat236919/github-readme-stats)
