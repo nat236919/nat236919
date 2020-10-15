@@ -1,22 +1,13 @@
-### Hello There 👋
+### Hello There
+
+![gif](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
+
+### Who I am 🃏
 
 I am a software engineer and a data analyst who is gliding around open-source development.
 
-- 🔭 I’m currently working on various web-application projects
-- 🌱 I’m currently learning Python and Go
-- 👯 I’m looking to collaborate on dazzling projects
+### Handshake 🤝
 
-<!--
-**nat236919/nat236919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website Badge](https://img.shields.io/website?down_message=offline&label=nat236919.github.io&style=flat-square&up_message=online&url=https://nat236919.github.io/)](https://nat236919.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunoprayoch-nuttaphat/)](https://www.linkedin.com/in/arunoprayoch-nuttaphat/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nat236919)](https://twitter.com/nat236919)
