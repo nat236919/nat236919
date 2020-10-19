@@ -11,4 +11,4 @@ I am also a creator and a maintainer of [covid19-api](https://nat236919.github.i
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nat236919)](https://twitter.com/nat236919)
 [![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6926444/n-arunoprayoch)](https://stackoverflow.com/users/6926444/n-arunoprayoch)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat236919&layout=compact)](https://github.com/nat236919/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat236919&layout=compact)](https://github.com/nat236919/nat236919)
