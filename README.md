@@ -2,7 +2,7 @@
 
 I am a software engineer and a data analyst who is gliding around open-source development. I am currently collaborating on various projects.
 
-I am also a creator and a maintainer of [covid19-api](https://nat236919.github.io/covid19-api/) and [scavenger](https://scavenger-project.azurewebsites.net/).
+I am also a creator and a maintainer of [covid19-api](https://nat236919.github.io/covid19-api/) and [scavenger](http://scavenger.nuttaphat.com/).
 
 ### Handshake 🤝
 
