@@ -2,7 +2,7 @@
 
 I am a software engineer and a data analyst who is gliding around open-source development. I am currently collaborating on various projects.
 
-I am also a creator and a maintainer of [covid19-api](https://nat236919.github.io/covid19-api/), [scavenger](https://scavenger-project.azurewebsites.net/), [daylify](https://daylify.nuttaphat.com/), and [judyvoice](https://judyvoice.netlify.app/).
+I am also a creator and a maintainer of [covid19-api](https://nat236919.github.io/covid19-api/), [scavenger](https://scavenger-project.azurewebsites.net/), and [daylify](https://daylify.nuttaphat.com/).
 
 ### Contribution ✍️
 
