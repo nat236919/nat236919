@@ -10,9 +10,9 @@ I'm the creator and maintainer of the following projects:
 
 ### Contribution ✍️
 
-- **Stack Overflow:** Active contributor with expertise in [your specific areas/tags].
-- **Taiwan Gold Card:** Contributed to [describe your contributions].
-- **Sanctuary Zero:** Collaborated on [brief description of your contributions].
+- **Stack Overflow:**
+- **Taiwan Gold Card:**
+- **Sanctuary Zero:**
 
 ### Handshake 🤝
 
