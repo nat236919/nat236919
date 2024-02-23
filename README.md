@@ -10,9 +10,9 @@ I'm the creator and maintainer of the following projects:
 
 ### Contribution ✍️
 
-- **Stack Overflow:**
-- **Taiwan Gold Card:**
-- **Sanctuary Zero:**
+- **Stack Overflow**
+- **Taiwan Gold Card**
+- **Sanctuary Zero**
 
 ### Handshake 🤝
 
