@@ -1,4 +1,4 @@
-### Who I am 🃏
+## Who I am 🃏
 
 I'm passionate about software engineering and data analysis, and I love contributing to open-source projects. Currently, I'm actively collaborating on various projects.
 
@@ -9,14 +9,19 @@ I'm the creator and maintainer of the following projects:
 - [scavenger](https://scavenger-project.azurewebsites.net/): An experiment project aiming to web scraping as a service.
 - [daylify](https://daylify.nuttaphat.com/): A project to simplify daily mood measurement.
 
-### Contribution ✍️
+## Contribution ✍️
 
 - **Stack Overflow**
 - **Taiwan Gold Card**
 - **Sanctuary Zero**
 
-### Handshake 🤝
+## Handshake 🤝
 
 [![Website Badge](https://img.shields.io/website?down_message=offline&label=nuttaphat.com&style=flat-square&up_message=online&url=https://nuttaphat.com/)](https://nuttaphat.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunoprayoch-nuttaphat/)](https://www.linkedin.com/in/arunoprayoch-nuttaphat/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6926444/n-arunoprayoch)](https://stackoverflow.com/users/6926444/n-arunoprayoch)
+
+## Statistics 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nat236919&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nat236919&layout=compact&theme=radical)
