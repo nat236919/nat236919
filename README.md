@@ -9,6 +9,12 @@ I'm the creator and maintainer of the following projects:
 - [scavenger](https://scavenger-project.azurewebsites.net/): An experiment project aiming to web scraping as a service.
 - [daylify](https://daylify.nuttaphat.com/): A project to simplify daily mood measurement.
 
+## Languages, Frameworks, and Tools 🛠️
+
+- [![My Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,scss,php)](https://skillicons.dev)
+- [![My Frameworks](https://skillicons.dev/icons?i=fastapi,flask,django,vue,nuxt,laravel)](https://skillicons.dev)
+- [![My Tools](https://skillicons.dev/icons?i=azure,docker,mongodb,mysql,git,bitbucket,github)](https://skillicons.dev)
+
 ## Contribution ✍️
 
 - **Stack Overflow**
