@@ -13,7 +13,7 @@ I'm the creator and maintainer of the following projects:
 
 - [![My Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,scss,php)](https://skillicons.dev)
 - [![My Frameworks](https://skillicons.dev/icons?i=fastapi,flask,django,vue,nuxt,laravel)](https://skillicons.dev)
-- [![My Tools](https://skillicons.dev/icons?i=azure,docker,mongodb,mysql,git,bitbucket,github)](https://skillicons.dev)
+- [![My Tools](https://skillicons.dev/icons?i=azure,docker,mongodb,mysql,git,bitbucket,github,redis)](https://skillicons.dev)
 
 ## Contribution ✍️
 
