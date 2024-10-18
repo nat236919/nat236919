@@ -1,5 +1,7 @@
 ## Who I am 🃏
 
+[![An image of @nat236919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nat236919)](https://holopin.io/@nat236919)
+
 I'm passionate about software engineering and data analysis, and I love contributing to open-source projects. Currently, I'm actively collaborating on various projects.
 
 I'm the creator and maintainer of the following projects:
