@@ -6,6 +6,7 @@ I'm passionate about software engineering and data analysis, and I love contribu
 
 I'm the creator and maintainer of the following projects:
 
+- [hxh-arena](https://hxh-arena.nuttaphat.com/): Hunter x Hunter: Discover Your Nen Type
 - [ambiently](http://ambiently.cc/): Soundscapes for creativity, focus, and relaxation
 - [imp-url](https://impurl.cc/): A URL shortener application
 - [covid19-api](https://nat236919.github.io/covid19-api/): A comprehensive API for COVID-19 data analysis.
